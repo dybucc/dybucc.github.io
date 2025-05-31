@@ -3,3 +3,8 @@ description: a set of notes on computer science
 theme: just-the-docs
 
 url: https://dybucc.github.io
+
+search:
+  heading-level: 3
+
+color-scheme: dark
